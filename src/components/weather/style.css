@@ -104,6 +104,7 @@ body {
   border-bottom-right-radius: 20px;
   background: #fafafa;
   display: flex;
+  justify-content: space-around;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   font-size: 100px;
